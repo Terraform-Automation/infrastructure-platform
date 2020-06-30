@@ -1,0 +1,1 @@
+// terraform code to provision ec2
